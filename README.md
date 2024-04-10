@@ -8,7 +8,7 @@
 
 
 
-lol thats all there is
+lol that's all there is
 <!--
 **wisp22/wisp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
